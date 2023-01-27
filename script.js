@@ -7,4 +7,4 @@ menubar.onclick = () =>{
     mynav.classList.toggle('active')
 }
 
-console.log("aku")
+console.log("punya trisia")
